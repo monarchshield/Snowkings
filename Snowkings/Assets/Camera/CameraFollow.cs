@@ -9,6 +9,10 @@ public class CameraFollow : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
+<<<<<<< HEAD
+=======
+
+>>>>>>> 8ec37677070eaa17327b01c48b1faea7b5bfb174
 		offset = transform.position - player.transform.position;
 	}
 	
